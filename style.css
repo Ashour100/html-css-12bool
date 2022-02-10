@@ -1,0 +1,9 @@
+.row1 .col-1::after{
+    content: "1 col";
+}
+.padding{
+    padding: .5rem;
+}
+.flex{
+    display: flex;
+}
